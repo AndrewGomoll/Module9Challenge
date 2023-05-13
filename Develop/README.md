@@ -4,7 +4,7 @@ README Generator
 MIT
 
 ## Description
-This program develops a usable README file for different programs
+This program develops a usable README
 
 # Table of Contents 
 * [Installation](#-Installation)
@@ -24,12 +24,13 @@ Run through NodeJS within the command line
 MIT
 
 ## Contribution
-Users can contribute further by adding other features common in README files or creating an interface  to view other than the command line
+Users can contribute by adding features to the README file
 
 ## Test
 Run program using NodeJS
 
 ## Questions 
 * GitHub Username: AndrewGomoll
-* Contact Email: andrewgomoll1@gmail.com
+* Contact Email: andrewgomoll@gmail.com
 
+https://drive.google.com/file/d/1hTfTCE0dbua-LBkRDLAfGhkc_QA_1pHC/view
