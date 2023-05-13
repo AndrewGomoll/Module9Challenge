@@ -1,10 +1,10 @@
 
 ## Title
-t
-GNU AGPLv3
+README Generator
+MIT
 
 ## Description
-t
+This program develops a usable README file for different programs
 
 # Table of Contents 
 * [Installation](#-Installation)
@@ -15,21 +15,21 @@ t
 * [Questions](#-Contact-Information)
   
 ## Installation
-t
+NodeJS
 
 ## Usage
-t
+Run through NodeJS within the command line
 
 ## License 
-GNU AGPLv3
+MIT
 
 ## Contribution
-t
+Users can contribute further by adding other features common in README files or creating an interface  to view other than the command line
 
 ## Test
-t
+Run program using NodeJS
 
 ## Questions 
-* GitHub Username: t
-* Contact Email: t@email.com
+* GitHub Username: AndrewGomoll
+* Contact Email: andrewgomoll1@gmail.com
 
